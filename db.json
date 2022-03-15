@@ -1,9 +1,5 @@
 {
-  "results" : [
-  "number":"10020392",
-  "number":"22013792",
-  "number":"30232422",
-  "number":"43654643",
-  "number":"53421322"
-  ]
+    "fruit": "Apple",
+    "size": "Large",
+    "color": "Red"
 }
